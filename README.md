@@ -1,3 +1,3 @@
-# HFMLTrigger
+# sPHENIX Tracking and Heavy Flavor Machine Learning Data Set
 
 To be completed...
